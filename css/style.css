@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: rgb(6, 3, 15);
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(84, 17, 110);
+}
+
+
+
+#carrito-container table{
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+    
+}
+
+#carrito-container table thead{
+    font-weight: 700;
+}
+
+#carrito-container table thead th{
+    background: rgb(84, 17, 110);
+    color: black;
+    border: none;
+    padding: 6px 0;
+}
+
+#carrito-container table td{
+    border: 1px solid grey;
+    text-align: center;
+}
+
+#carrito-container table td:nth-child(1){
+    width: 100px;
+}
+
+#carrito-container table td:nth-child(2),
+#carrito-container table td:nth-child(3){
+    width: 200px;
+}
+
+#carrito-container table td:nth-child(4),
+#carrito-container table td:nth-child(5),
+#carrito-container table td:nth-child(6){
+    width: 170px;
+}
+#carrito-container table tbody .btn{
+    background: rgb(176, 143, 230)
+    
+}
+
+#carrito-container table tbody i{
+    color:rgb(84, 17, 110) ;
+}
+
+
+.card-img-top
+{
+    width: 50px;
+    height: 400px;
+    object-fit: cover;
+}
+.card-footer .btn{
+    background-color:rgb(84, 17, 110);
+    color: rgb(231, 230, 235);
+}
+
+#precioTotal .btn{
+    background-color:rgb(84, 17, 110) ;
+    color: whitesmoke;
+}
+.si i {
+	font-size: 40px;
+	padding: 20px;
+    color:rgb(84, 17, 110);
+    
+}
+

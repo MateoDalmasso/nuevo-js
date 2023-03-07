@@ -1,0 +1,44 @@
+[{
+    "id":1,
+    "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/phvVT0qZfcRms5qDAk0SI3CM.png",
+    "nombre" : "Elden Ring",
+    "precio": 11500,
+    "cantidad" : 1
+},
+{
+    "id":2,
+    "foto" : "https://upload.wikimedia.org/wikipedia/en/3/37/Signalis_cover.jpg",
+    "nombre" : "Signalis",
+    "precio": 1060,
+    "cantidad" : 1
+},
+{
+    "id":3,
+    "foto" : "https://m.media-amazon.com/images/M/MV5BNzkwZDliNGEtMDNkNi00ODcxLWI1N2UtNDE1NmZlM2QyMTY4XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+    "nombre" : "Undertale",
+    "precio": 500,
+    "cantidad" : 1
+},
+{
+    "id":4,
+    "foto" : "https://cdn1.epicgames.com/offer/e97659b501af4e3981d5430dad170911/EGS_HogwartsLegacy_AvalancheSoftware_S2_1200x1600-2bb94423bf1c7e2fca10577d9f2878b9",
+    "nombre" : " Hogwarts Legacy",
+    "precio": 8999,
+    "cantidad" : 1
+},
+{
+    "id":5,
+    "foto" : "https://cdn1.epicgames.com/offer/3ddd6a590da64e3686042d108968a6b2/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7_1200x1600-fbdf3cbc2980749091d52751ffabb7b7",
+    "nombre" : "God Of War",
+    "precio": 8900,
+    "cantidad" : 1
+},
+{
+    "id":6,
+    "foto" : "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08519_00/12/i_3da1cf7c41dc7652f9b639e1680d96436773658668c7dc3930c441291095713b/i/icon0.png",
+    "nombre" : "Red Dead Redemption ",
+    "precio": 11000,
+    "cantidad" : 1
+}
+
+]
